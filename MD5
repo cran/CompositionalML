@@ -1,0 +1,17 @@
+11058657d8ac8fd56848d95407083ea7 *DESCRIPTION
+f7411d96bb798fea12b93b22fefb7d66 *NAMESPACE
+763040ad6c82f568e16a6aacc8629980 *R/alfa.boruta.R
+bf75e3ffd2312c48b594ccc3c8694b93 *R/alfa.ppr.R
+8e781c69e62ed70d3b6a7d0fe4c57856 *R/alfa.rf.R
+e44f52f1cadea2fd4a2ca0c8d6c39382 *R/alfa.svm.R
+4cb88d01f099b6dbb17d5a6f6b19ff85 *R/alfappr.tune.R
+ddaf05d04dae8b85dbf5d0bef2ddf184 *R/alfarf.tune.R
+b130c87b1ba01feb989dafc7972b1f43 *R/alfasvm.tune.R
+a5b7dac5ce49ea04ae384c416173d9ee *man/CompositionalML-package.Rd
+e51b4e68e4f7be129f4d8281442723c0 *man/alfa.boruta.Rd
+98fcd9582dc1e9651c5be8b80946c35f *man/alfa.ppr.Rd
+1a199007b084718c243a277c6d4ac65d *man/alfa.rf.Rd
+5a4168d10fb4ab20edfa21c0f54fea51 *man/alfa.svm.Rd
+4eb8d197f377a4c2581f04b1b1e8906a *man/alfappr.tune.Rd
+dcdb9b4f546db265c3fa54f21ce7b54e *man/alfarf.tune.Rd
+2b71f271a5cad0b905c769750fd5a1ee *man/alfasvm.tune.Rd
